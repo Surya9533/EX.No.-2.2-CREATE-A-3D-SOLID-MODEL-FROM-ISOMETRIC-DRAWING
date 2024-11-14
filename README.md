@@ -101,7 +101,8 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 4.	Type in the value of 10mm on both side. 
 5.	Press ENTER to accept the value.
 
-## INPUT:
+## INPUT:![image](https://github.com/user-attachments/assets/b63f7aad-1117-4072-9d55-dc184b473e26)
+
 ![image](https://user-images.githubusercontent.com/113594316/198523331-05ace360-502b-4569-b9b4-31c60e3cd554.png)
 
 Output:
